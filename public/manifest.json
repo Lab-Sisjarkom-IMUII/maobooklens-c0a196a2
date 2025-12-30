@@ -1,0 +1,8 @@
+{
+  "name": "Maobooklens Next",
+  "short_name": "BookLens",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0d6efd"
+}
