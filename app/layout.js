@@ -10,6 +10,9 @@ export default function RootLayout({ children }) {
         <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
         <meta name="theme-color" content="#0d6efd" />
         <link rel="manifest" href="/manifest.json" />
+        <link rel="icon" href="/icons/icon-192.png" sizes="192x192" type="image/png" />
+        <link rel="icon" href="/icons/icon-512.png" sizes="512x512" type="image/png" />
+        <link rel="apple-touch-icon" href="/icons/icon-192.png" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="true" />
         <link
