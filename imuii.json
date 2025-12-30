@@ -1,0 +1,11 @@
+{
+  "name": "maobooklens",
+  "framework": "nextjs",
+  "language": "javascript",
+  "buildCommand": "npm run build",
+  "startCommand": "npm run de",
+  "domain": "maobooklens",
+  "email": "24523255@students.uii.ac.id",
+  "secretKey": "imuii_25ded411620a155b2d604a0604a0e654c1ab5349ba68916fe7833e5ec7a828e0",
+  "repoUrl": "https://github.com/Lab-Sisjarkom-IMUII/maobooklens-c0a196a2.git"
+}
