@@ -8,9 +8,8 @@ export default function Home() {
           {/* IM-UII Header */}
           <div className="page-header">
             <h1 className="page-title">IM-UII</h1>
-            <p className="page-subtitle">Welcome to my Book Lens Project</p>
-          </div>
-
+            <p className="page-subtitle">Welcome to my Project</p>
+          </div>  
           {/* Feature Cards */}
           <div className="page-features">
             <div className="page-card">
